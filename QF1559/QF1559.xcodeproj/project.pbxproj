@@ -15,6 +15,7 @@
 		4EC8FCC01C34C22F0066BCA8 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EC8FCBE1C34C22F0066BCA8 /* LaunchScreen.xib */; };
 		4EC8FCCC1C34C22F0066BCA8 /* QF1559Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EC8FCCB1C34C22F0066BCA8 /* QF1559Tests.m */; };
 		4EC8FCD71C34C2730066BCA8 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EC8FCD61C34C2730066BCA8 /* FirstViewController.m */; };
+		4EC8FCDA1C34C34D0066BCA8 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EC8FCD91C34C34D0066BCA8 /* TwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		4EC8FCCB1C34C22F0066BCA8 /* QF1559Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QF1559Tests.m; sourceTree = "<group>"; };
 		4EC8FCD51C34C2730066BCA8 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		4EC8FCD61C34C2730066BCA8 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		4EC8FCD81C34C34D0066BCA8 /* TwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		4EC8FCD91C34C34D0066BCA8 /* TwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 		4EC8FCA31C34C22F0066BCA8 = {
 			isa = PBXGroup;
 			children = (
+				4EC8FCD81C34C34D0066BCA8 /* TwoViewController.h */,
+				4EC8FCD91C34C34D0066BCA8 /* TwoViewController.m */,
 				4EC8FCD51C34C2730066BCA8 /* FirstViewController.h */,
 				4EC8FCD61C34C2730066BCA8 /* FirstViewController.m */,
 				4EC8FCAE1C34C22F0066BCA8 /* QF1559 */,
@@ -227,6 +232,7 @@
 				4EC8FCB81C34C22F0066BCA8 /* ViewController.m in Sources */,
 				4EC8FCB51C34C22F0066BCA8 /* AppDelegate.m in Sources */,
 				4EC8FCB21C34C22F0066BCA8 /* main.m in Sources */,
+				4EC8FCDA1C34C34D0066BCA8 /* TwoViewController.m in Sources */,
 				4EC8FCD71C34C2730066BCA8 /* FirstViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

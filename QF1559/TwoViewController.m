@@ -1,11 +1,18 @@
+//
+//  TwoViewController.m
+//  QF1559
+//
+//  Created by MS on 15-12-31.
+//  Copyright (c) 2015年 MS. All rights reserved.
+//
 
-#import "FirstViewController.h"
+#import "TwoViewController.h"
 
-@interface FirstViewController ()
+@interface TwoViewController ()
 
 @end
 
-@implementation FirstViewController
+@implementation TwoViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
